@@ -1,0 +1,42 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/txtMsg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#55ffff00"
+        android:textSize="24dp"
+        android:text="DialogBox Demo" />
+
+    <Button
+        android:id="@+id/btn_alert_dialog1"
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:text="Alert Dialog Box" />
+
+    <Button
+        android:id="@+id/btn_custom_dialog"
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:text="Custom Dialog Box" />
+
+    <Button
+        android:id="@+id/btn_alert_dialog2"
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:text="Alert Dialog Fragment" />
+
+    <Button
+        android:id="@+id/btn_alert_dialog9"
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:text="Alert Dialog Items" />
+
+</LinearLayout>

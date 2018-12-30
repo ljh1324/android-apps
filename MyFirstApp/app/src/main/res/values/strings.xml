@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WordSafer</string>
+    <string name="save">Save</string>
+    <string name="sendMsg">Send Msg</string>
+</resources>

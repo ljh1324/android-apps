@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">First</string>
+    <string name="hello_android">Hello Android! I\'m in the strings.xml</string>
+    <string name="hello_button">Hello Button! I\'m in the strings.xml</string>
+</resources>

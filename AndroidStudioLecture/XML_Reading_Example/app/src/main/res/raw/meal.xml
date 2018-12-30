@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <food>
+        <name>AIu Chana Chaat</name>
+        <description>Chick peas and potato salad tossed in tamarind sauce, sprinkled with herbs and
+            spices (served cold).
+        </description>
+        <price>3.50</price>
+        <calories>300</calories>
+    </food>
+    <food>
+        <name>Assorted Appetizers</name>
+        <description>Serves two. A delightful combination of samosa. spinach pakora, chicken tikka
+            and shammi kebobs.
+        </description>
+        <price>5.95</price>
+        <calories>300</calories>
+    </food>
+    <food>
+        <name>Belgian Waffles</name>
+        <price>5.95</price>
+        <description>Two of our famous Belgian Waffles with plenty of real maple syrup</description>
+        <calories>650</calories>
+    </food>
+    <food>
+        <name>Berry-Berry Belgian Waffles</name>
+        <price>8.95</price>
+        <description>Light Belgian waffles covered with an assortment of fresh berries and whipped
+            cream
+        </description>
+        <calories>900</calories>
+    </food>
+    <food>
+        <name>Bhel Puri</name>
+        <description>Spiced mixture of puffed rice, vermicilli, onions and cilantro tossed with
+            special house spices.
+        </description>
+        <price>3.95</price>
+        <calories>120</calories>
+    </food>
+    <food>
+        <name>Chaat Papri</name>
+        <description>Crisp pastry flaked, dipped in yogurt and tamarind sauce.</description>
+        <price>3.95</price>
+        <calories>240</calories>
+    </food>
+    <food>
+        <name>Cheese Pizza</name>
+        <price>6.95</price>
+        <description>Individual deep-dish pizza with lots of mozzarella cheese</description>
+        <calories>800</calories>
+    </food>
+    <food>
+        <name>Chicken Pakora</name>
+        <description>Tender chicken strips dipped in a spiced batter and deep tried.</description>
+        <price>3.50</price>
+        <calories>290</calories>
+    </food>
+    <food>
+        <name>Everything Pizza</name>
+        <price>9.95</price>
+        <description>Individual deep-dish pizza with all our toppings. House specialty!
+        </description>
+        <calories>800</calories>
+    </food>
+    <food>
+        <name>French Toast</name>
+        <price>4.50</price>
+        <description>Thick slices made from our homemade sourdough bread</description>
+        <calories>600</calories>
+    </food>
+    <food>
+        <name>Homestyle Breakfast</name>
+        <price>6.95</price>
+        <description>Two eggs, bacon or sausage, toast, and our ever-popular hash browns
+        </description>
+        <calories>950</calories>
+    </food>
+    <food>
+        <name>Hungarian Ghoulash</name>
+        <price>4.50</price>
+        <description>Large serving in a sourdough bread bowl. A_local delight!</description>
+        <calories>600</calories>
+    </food>
+    <food>
+        <name>Pepperoni Pizza</name>
+        <price>7.95</price>
+        <description>Individual deep-dish cheese pizza with thick-cut pepperoni slices</description>
+        <calories>950</calories>
+    </food>
+    <food>
+        <name>Strawberry Belgian Waffles</name>
+        <price>7.95</price>
+        <description>Light Belgian waffles covered with strawberries and whipped cream</description>
+        <calories>900</calories>
+    </food>
+</menu>
+

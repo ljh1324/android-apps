@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.action_bar_example.MainActivity">
+    <item
+        android:id="@+id/action_search"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        android:orderInCategory="120"
+        app:showAsAction="always|collapseActionView"
+        android:title="Search" />
+    <item
+        android:id="@+id/action_share"
+        android:icon="@drawable/ic_action_share"
+        android:orderInCategory="140"
+        android:title="Share"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_download"
+        android:icon="@drawable/ic_action_download"
+        android:orderInCategory="160"
+        android:title="Download"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="180"
+        android:title="Settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="200"
+        android:title="About"
+        app:showAsAction="never" />
+</menu>

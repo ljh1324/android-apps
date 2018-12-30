@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 0에서 1로 갈 때 점점 빨리 간다 -->
+    <alpha android:fromAlpha="0.0"
+        android:toAlpha="1.0"
+        android:interpolator="@android:anim/accelerate_interpolator"
+        android:duration="600"
+        android:repeatMode="reverse"
+        android:repeatCount="infinite"/>
+</set>

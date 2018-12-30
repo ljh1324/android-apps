@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 부드럽게 이어지는 것 : interpolation -->
+<!-- bounce_interpolator : 통통 튀듯이 없어 졌다가 나타난다 -->
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+     android:fillAfter="true"
+     android:interpolator="@android:anim/bounce_interpolator">
+
+    <!-- 1은 원 상태 -->
+    <!-- 마이너스 값은 줄어 들었다가 늘어난다 -->
+    <scale
+        android:duration="1500"
+        android:fromXScale="1.0"
+        android:fromYScale="-10.0"
+        android:toXScale="1.0"
+        android:toYScale="1.0" />
+
+</set>
